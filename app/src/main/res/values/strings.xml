@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iphone 11 Pro Maxим</string>
+    <string name="slogan">Food for Everyone</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_history">History</string>
+</resources>
